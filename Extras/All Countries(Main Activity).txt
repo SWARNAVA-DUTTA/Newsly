@@ -1,0 +1,541 @@
+case R.id.Argentina:
+                        String country1="ar";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country1);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country1);
+                        break;
+                    case R.id.Australia:
+                        String country2="au";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country2);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country2);
+                        break;
+                    case R.id.Austria:
+                        String country3="at";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country3);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country3);
+                        break;
+                    case R.id.Belgium:
+                        String country4="be";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country4);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country4);
+                        break;
+                    case R.id.Brazil:
+                        String country5="br";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country5);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country5);
+                        break;
+                    case R.id.Bulgaria:
+                        String country6="bg";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country6);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country6);
+                        break;
+                    case R.id.Canada:
+                        String country7="ca";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country7);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country7);
+                        break;
+                    case R.id.China:
+                        String country8="cn";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country8);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country8);
+                        break;
+                    case R.id.Colombia:
+                        String country9="co";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country9);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country9);
+                        break;
+                    case R.id.Cuba:
+                        String country10="cu";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country10);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country10);
+                        break;
+                    case R.id.CzechRepublic:
+                        String country11="cn";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country11);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country11);
+                        break;
+                    case R.id.Egypt:
+                        String country12="eg";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country12);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country12);
+                        break;
+                    case R.id.France:
+                        String country13="fr";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country13);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country13);
+                        break;
+                    case R.id.Germany:
+                        String country14="de";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country14);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country14);
+                        break;
+                    case R.id.Greece:
+                        String country15="gr";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country15);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country15);
+                        break;
+                    case R.id.HongKong:
+                        String country16="hk";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country16);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country16);
+                        break;
+                    case R.id.Hungary:
+                        String country17="hu";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country17);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country17);
+                        break;
+                    case R.id.India:
+                        String country18="in";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country18);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country18);
+                        break;
+                    case R.id.Indonesia:
+                        String country19="id";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country19);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country19);
+                        break;
+
+                    case R.id.Ireland:
+                        String country20="ie";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country20);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country20);
+                        break;
+                    case R.id.Israel:
+                        String country21="il";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country21);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country21);
+                        break;
+                    case R.id.Italy:
+                        String country22="it";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country22);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country22);
+                        break;
+                    case R.id.Japan:
+                        String country23="jp";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country23);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country23);
+                        break;
+                    case R.id.Latvia:
+                        String country24="lv";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country24);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country24);
+                        break;
+                    case R.id.Lithuania:
+                        String country25="lt";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country25);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country25);
+                        break;
+                    case R.id.Malaysia:
+                        String country26="my";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country26);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country26);
+                        break;
+                    case R.id.Mexico:
+                        String country27="mx";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country27);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country27);
+                        break;
+                    case R.id.Morocco:
+                        String country28="ma";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country28);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country28);
+                        break;
+                    case R.id.Netherlands:
+                        String country29="nl";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country29);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country29);
+                        break;
+                    case R.id.NewZealand:
+                        String country30="nz";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country30);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country30);
+                        break;
+                    case R.id.Nigeria:
+                        String country31="ng";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country31);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country31);
+                        break;
+                    case R.id.Norway:
+                        String country32="no";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country32);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country32);
+                        break;
+                    case R.id.Philippines:
+                        String country33="ph";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country33);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country33);
+                        break;
+                    case R.id.Poland:
+                        String country34="pl";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country34);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country34);
+                        break;
+                    case R.id.Portugal:
+                        String country35="pt";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country35);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country35);
+                        break;
+                    case R.id.Romania:
+                        String country36="ro";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country36);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country36);
+                        break;
+                    case R.id.Russia:
+                        String country37="ru";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country37);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country37);
+                        break;
+                    case R.id.SaudiArabia:
+                        String country38="sa";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country38);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country38);
+                        break;
+                    case R.id.Serbia:
+                        String country39="rs";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country39);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country39);
+                        break;
+                    case R.id.Singapore:
+                        String country40="sg";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country40);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country40);
+                        break;
+                    case R.id.Slovakia:
+                        String country41="sk";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country41);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country41);
+                        break;
+                    case R.id.Slovenia:
+                        String country42="si";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country42);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country42);
+                        break;
+                    case R.id.SouthAfrica:
+                        String country43="za";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country43);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country43);
+                        break;
+                    case R.id.SouthKorea:
+                        String country44="kr";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country44);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country44);
+                        break;
+                    case R.id.Sweden:
+                        String country45="se";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country45);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country45);
+                        break;
+                    case R.id.Switzerland:
+                        String country46="ch";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country46);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country46);
+                        break;
+                    case R.id.Taiwan:
+                        String country47="tw";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country47);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country47);
+                        break;
+                    case R.id.Thailand:
+                        String country48="th";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country48);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country48);
+                        break;
+                    case R.id.Turkey:
+                        String country49="tr";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country49);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country49);
+                        break;
+                    case R.id.UAE:
+                        String country50="ae";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country50);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country50);
+                        break;
+                    case R.id.Ukraine:
+                        String country51="ua";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country51);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country51);
+                        break;
+                    case R.id.UnitedKingdom:
+                        String country52="gb";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country52);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country52);
+                        break;
+                    case R.id.UnitedStates:
+                        String country53="us";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country53);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country53);
+                        break;
+                    case R.id.Venuzuela:
+                        String country54="ve";
+                        layout.setOnRefreshListener(new PullRefreshLayout.OnRefreshListener() {
+                            @Override
+                            public void onRefresh() {
+                                LoadJson("",country54);
+                            }
+                        });
+                        onLoadingSwipeRefresh("",country54);
+                        break;

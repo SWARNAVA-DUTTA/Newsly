@@ -1,0 +1,228 @@
+    <group
+        android:id="@+id/grpid1"
+        android:checkableBehavior="single">
+    <item android:title="Search for countries"
+        android:checked="false"
+        android:id="@+id/country_name"
+        android:checkable="false" />
+        <item
+            android:id="@+id/Argentina"
+            android:icon="@drawable/flag"
+            android:title="@string/Argentina" />
+        <item
+            android:id="@+id/Australia"
+            android:icon="@drawable/flag"
+            android:title="@string/Australia" />
+        <item
+            android:id="@+id/Austria"
+            android:icon="@drawable/flag"
+            android:title="@string/Austria" />
+        <item
+            android:id="@+id/Belgium"
+            android:icon="@drawable/flag"
+            android:title="@string/Belgium" />
+        <item
+            android:id="@+id/Brazil"
+            android:icon="@drawable/flag"
+            android:title="@string/Brazil" />
+
+        <item
+            android:id="@+id/Bulgaria"
+            android:icon="@drawable/flag"
+            android:title="@string/Bulgaria" />
+
+        <item
+            android:id="@+id/Canada"
+            android:icon="@drawable/flag"
+            android:title="@string/Canada" />
+        <item
+            android:id="@+id/China"
+            android:icon="@drawable/flag"
+            android:title="@string/China" />
+        <item
+            android:id="@+id/Colombia"
+            android:icon="@drawable/flag"
+            android:title="@string/Colombia" />
+        <item
+            android:id="@+id/Cuba"
+            android:icon="@drawable/flag"
+            android:title="@string/Cuba" />
+        <item
+            android:id="@+id/CzechRepublic"
+            android:icon="@drawable/flag"
+            android:title="@string/CzechRepublic" />
+        <item
+            android:id="@+id/Egypt"
+            android:icon="@drawable/flag"
+            android:title="@string/Egypt" />
+        <item
+            android:id="@+id/France"
+            android:icon="@drawable/flag"
+            android:title="@string/France" />
+        <item
+            android:id="@+id/Germany"
+            android:icon="@drawable/flag"
+            android:title="@string/Germany" />
+        <item
+            android:id="@+id/Greece"
+            android:icon="@drawable/flag"
+            android:title="@string/Greece" />
+        <item
+            android:id="@+id/HongKong"
+            android:icon="@drawable/flag"
+            android:title="@string/HongKong" />
+        <item
+            android:id="@+id/Hungary"
+            android:icon="@drawable/flag"
+            android:title="@string/Hungary" />
+        <item
+            android:id="@+id/India"
+            android:icon="@drawable/flag"
+            android:title="@string/India"
+            />
+        <item
+            android:id="@+id/Indonesia"
+            android:icon="@drawable/flag"
+            android:title="@string/Indonesia" />
+        <item
+            android:id="@+id/Ireland"
+            android:icon="@drawable/flag"
+            android:title="@string/Ireland" />
+        <item
+            android:id="@+id/Israel"
+            android:icon="@drawable/flag"
+            android:title="@string/Israel" />
+        <item
+            android:id="@+id/Italy"
+            android:icon="@drawable/flag"
+            android:title="@string/Italy" />
+        <item
+            android:id="@+id/Japan"
+            android:icon="@drawable/flag"
+            android:title="@string/Japan" />
+        <item
+            android:id="@+id/Latvia"
+            android:icon="@drawable/flag"
+            android:title="@string/Latvia" />
+        <item
+            android:id="@+id/Lithuania"
+            android:icon="@drawable/flag"
+            android:title="@string/Lithuania" />
+        <item
+            android:id="@+id/Malaysia"
+            android:icon="@drawable/flag"
+            android:title="@string/Malaysia" />
+        <item
+            android:id="@+id/Mexico"
+            android:icon="@drawable/flag"
+            android:title="@string/Mexico" />
+        <item
+            android:id="@+id/Morocco"
+            android:icon="@drawable/flag"
+            android:title="@string/Morocco" />
+        <item
+            android:id="@+id/Netherlands"
+            android:icon="@drawable/flag"
+            android:title="@string/Netherlands" />
+        <item
+            android:id="@+id/NewZealand"
+            android:icon="@drawable/flag"
+            android:title="@string/NewZealand" />
+        <item
+            android:id="@+id/Nigeria"
+            android:icon="@drawable/flag"
+            android:title="@string/Nigeria" />
+        <item
+            android:id="@+id/Norway"
+            android:icon="@drawable/flag"
+            android:title="@string/Norway" />
+        <item
+            android:id="@+id/Philippines"
+            android:icon="@drawable/flag"
+            android:title="@string/Philippines" />
+        <item
+            android:id="@+id/Poland"
+            android:icon="@drawable/flag"
+            android:title="@string/Poland" />
+        <item
+            android:id="@+id/Portugal"
+            android:icon="@drawable/flag"
+            android:title="@string/Portugal" />
+        <item
+            android:id="@+id/Romania"
+            android:icon="@drawable/flag"
+            android:title="@string/Romania" />
+        <item
+            android:id="@+id/Russia"
+            android:icon="@drawable/flag"
+            android:title="@string/Russia" />
+        <item
+            android:id="@+id/SaudiArabia"
+            android:icon="@drawable/flag"
+            android:title="@string/SaudiArabia" />
+        <item
+            android:id="@+id/Serbia"
+            android:icon="@drawable/flag"
+            android:title="@string/Serbia" />
+        <item
+            android:id="@+id/Singapore"
+            android:icon="@drawable/flag"
+            android:title="@string/Singapore" />
+        <item
+            android:id="@+id/Slovakia"
+            android:icon="@drawable/flag"
+            android:title="@string/Slovakia" />
+        <item
+            android:id="@+id/Slovenia"
+            android:icon="@drawable/flag"
+            android:title="@string/Slovenia" />
+        <item
+            android:id="@+id/SouthAfrica"
+            android:icon="@drawable/flag"
+            android:title="@string/SouthAfrica" />
+        <item
+            android:id="@+id/SouthKorea"
+            android:icon="@drawable/flag"
+            android:title="@string/SouthKorea" />
+        <item
+            android:id="@+id/Sweden"
+            android:icon="@drawable/flag"
+            android:title="@string/Sweden" />
+        <item
+            android:id="@+id/Switzerland"
+            android:icon="@drawable/flag"
+            android:title="@string/Switzerland" />
+        <item
+            android:id="@+id/Taiwan"
+            android:icon="@drawable/flag"
+            android:title="@string/Taiwan" />
+        <item
+            android:id="@+id/Thailand"
+            android:icon="@drawable/flag"
+            android:title="@string/Thailand" />
+        <item
+            android:id="@+id/Turkey"
+            android:icon="@drawable/flag"
+            android:title="@string/Turkey" />
+        <item
+            android:id="@+id/UAE"
+            android:icon="@drawable/flag"
+            android:title="@string/UAE" />
+        <item
+            android:id="@+id/Ukraine"
+            android:icon="@drawable/flag"
+            android:title="@string/Ukraine" />
+        <item
+            android:id="@+id/UnitedKingdom"
+            android:icon="@drawable/flag"
+            android:title="@string/UnitedKingdom" />
+        <item
+            android:id="@+id/UnitedStates"
+            android:icon="@drawable/flag"
+            android:title="@string/UnitedStates" />
+        <item
+            android:id="@+id/Venuzuela"
+            android:icon="@drawable/flag"
+            android:title="@string/Venuzuela" />
+
+    </group>
